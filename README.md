@@ -1,7 +1,7 @@
 # sf-food-trucks
 Find specific food trucks in San Francisco matching a food item
 
-https://github.com/w3Patterns/sf-food-trucks/assets/25827581/06cc2aa1-7e8a-47ca-973a-e4a88e7002a9
+https://github.com/w3Patterns/sf-food-trucks/assets/25827581/40281499-3f13-46b0-85a3-d823d05e78ac
 
 <code>
 # Find specific food trucks in San Francisco matching a food item
